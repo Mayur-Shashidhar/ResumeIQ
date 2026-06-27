@@ -1,0 +1,19 @@
+# Root level gitignore for ResumeIQ
+node_modules/
+**/node_modules/
+
+# Build artifacts
+dist/
+**/dist/
+build/
+
+# Environment files
+.env
+**/.env
+.env.local
+
+# OS & Editor files
+.DS_Store
+*.log
+.idea/
+.vscode/
