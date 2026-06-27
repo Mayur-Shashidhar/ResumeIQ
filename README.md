@@ -1,6 +1,6 @@
 # 🚀 ResumeIQ — Production-Grade AI Resume Analyzer & FAANG Recruiting Intelligence Platform
 
-> **Get recruiter-quality feedback on your resume in under 30 seconds.**  
+> **Get recruiter-quality feedback on your resume in under 60 seconds.**  
 > Built with React, Vite, Node.js/Express, and powered by the official `@google/genai` SDK with **Google Gemini 2.5 Flash**.
 
 ---
